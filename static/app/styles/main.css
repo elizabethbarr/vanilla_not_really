@@ -1,0 +1,239 @@
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+body, html {
+    height: 100%;
+}
+body {
+  font-family: 'Bitter', serif;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.bluelink {
+  color: #31C4F3;
+  text-decoration: none;
+}
+
+.bluelink:hover {
+  color: #444444;
+  text-decoration: none;
+}
+
+.bluelink:active {
+  color: #444444;
+  text-decoration: none;
+}
+
+.orangelink {
+  color: #FD5E0F;
+  text-decoration: none;
+}
+
+.orangelink:hover {
+  color: #444444;
+  text-decoration: none;
+}
+
+.orangelink:active {
+  color: #444444;
+  text-decoration: none;
+}
+
+.graylink {
+  color: #999999;
+  text-decoration: none;
+}
+
+.graylink:hover {
+  color: #444444;
+  text-decoration: none;
+}
+
+.graylink:active {
+  color: #444444;
+  text-decoration: none;
+}
+
+.graylink:visited {
+  color: #999999;
+  text-decoration: none;
+}
+
+.navbar-brand {
+  padding-top: 0.1em;
+}
+
+.navbar-container {
+  padding: 0 5% 0 5%;
+}
+
+/* index.html */
+
+.hero-container {
+    background: url(../images/foodtruckfans.jpg);
+    background-size: cover;
+    background-position: center; 
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 5em;
+  font-family: 'Bitter', serif;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 3em;
+  font-family: 'Bitter', serif;
+}
+
+h3 {
+  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.hero-content {
+  padding-top: 22%;
+  color: white;
+  text-align: center;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.button-content {
+  padding-top: 0.5%;
+}
+
+.btn {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+/* middle container */
+.middle-container {
+  padding: 4% 8% 4% 8%;
+  background-color: #949494;
+ }
+
+.middle-content {
+  color: #f8f8f8;
+  text-align: center;
+}
+
+.middle-text {
+  padding-top: 0.5%;
+}
+
+.alexa-logo {
+  padding-top: 2%;
+}
+
+.voice-first {
+  color: #31C4F3;
+  font-size: 20px;
+  padding-top: 1%;
+}
+
+/* lower container */
+.lower-container {
+  padding: 4% 8% 4% 8%;
+  background-color: #adadad;
+}
+
+.lower-content {
+  color: #f8f8f8;
+}
+
+/* footer */
+.footer-container {
+  padding: 4% 8% 2% 8%;
+  background-color: #f8f8f8;
+}
+
+.footer-content {
+  color: #999999;
+}
+
+.footer-left-top {
+}
+
+.footer-left-middle {
+  padding-top: 4%;
+}
+
+.footer-left-bottom {
+  padding-top: 4%;
+}
+
+.footer-middle-top {
+  text-align: center;
+}
+
+.footer-middle-bottom {
+  padding-top: 55%;
+  font-size: 9px;
+  text-align: center;
+}
+
+.footer-right-one {
+  padding-left: 50%;
+}
+
+.footer-right-two {
+  padding: 4% 0 0 50%;
+}
+
+.footer-right-three {
+  padding: 4% 0 0 50%;
+}
+
+.footer-right-four {
+  padding: 4% 0 0 50%;
+}
+
+.icon {
+  padding-left: 3.5%;
+}
+
+/* login.html */
+
+.login-container {
+  padding: 10% 10% 0 34%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.login-hed {
+  text-align: center;
+  font-weight: 700;
+}
+
+.login-footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 30px;
+  width: 100%;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  line-height: 0.5;
+  font-size: 0.75em;
+}
+
+/* signup.html */
+
+.signup-container {
+  padding: 10% 10% 0 34%;
+}
+
+/* privacy.html */
+
+.privacy-container {
+  padding: 5% 10% 5% 20%;
+}
